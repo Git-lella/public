@@ -1,1 +1,1 @@
-echo "Hello,Ansible for"
+echo "Hello,Ansible"
